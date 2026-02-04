@@ -28,10 +28,6 @@ I am a Software Engineering student at Brigham Young University–Idaho with exp
 | 🛒 ![Ecommerce](https://img.shields.io/badge/Skill-Ecommerce-green?style=for-the-badge) 🛒 |
 | 🕶️ ![Team Leadership](https://img.shields.io/badge/Skill-Team%20Leadership-lightblue?style=for-the-badge) 🕶️ |
 
-
-
-
-
 ## Let's Connect!
 
 - Here is my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmitt-stevenson-970a9934b)
