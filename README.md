@@ -20,10 +20,14 @@ I am a Software Engineering student at Brigham Young University–Idaho with exp
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge)
 
 ### Skills
-![Game Design](https://img.shields.io/badge/Skill-Game%20Design-purple?style=for-the-badge) 🎮
-![Cloud](https://img.shields.io/badge/Skill-Cloud%20Tech-lightblue?style=for-the-badge) ☁️
-![Ecommerce](https://img.shields.io/badge/Skill-Ecommerce-green?style=for-the-badge) 🛒
-![Team Leadership](https://img.shields.io/badge/Skill-Team%20Leadership-lightblue?style=for-the-badge) 🕶️
+
+| Skills | 
+|-------|
+| 🎮 ![Game Design](https://img.shields.io/badge/Skill-Game%20Design-purple?style=for-the-badge) 🎮 |
+| ☁️ ![Cloud](https://img.shields.io/badge/Skill-Cloud%20Tech-lightblue?style=for-the-badge) ☁️ |
+| 🛒 ![Ecommerce](https://img.shields.io/badge/Skill-Ecommerce-green?style=for-the-badge) 🛒 |
+| 🕶️ ![Team Leadership](https://img.shields.io/badge/Skill-Team%20Leadership-lightblue?style=for-the-badge) 🕶️ |
+
 
 
 
